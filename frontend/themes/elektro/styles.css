@@ -1,0 +1,12 @@
+@import url('./main-layout.css');
+@import url('./views/sistematizacija-view.css');
+@import url('./views/terenskajedinica-view.css');
+@import url('./views/transakcije-view.css');
+@import url('./views/fizičkalokacija-view.css');
+@import url('./views/radnici-view.css');
+@import url('./views/privilegije-view.css');
+@import url('./views/j-m-view.css');
+@import url('./views/oprema-view.css');
+@import url('./views/korisnikaplikacije-view.css');
+@import url('./views/arhivaprometa-view.css');
+@import url('line-awesome/dist/line-awesome/css/line-awesome.min.css');
